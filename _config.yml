@@ -27,11 +27,11 @@ baseurl:
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-즐거운 블로그 생활
+  즐거운 블로그 생활
 
 # A shorter description for the sidebar.
 tagline:               >
-즐겁고 신나는 블로그 생활
+  즐겁고 신나는 블로그 생활
 
 # A list of keywords for your blog.
 keywords:              []
