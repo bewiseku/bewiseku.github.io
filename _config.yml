@@ -22,7 +22,7 @@ url:                   https://bewiseku.github.io/
 lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 bewiseku memos
+title:                 "bewiseku memos"
 baseurl: 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
